@@ -1,6 +1,6 @@
 {
   "name": "equals-ignore-case",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "equalsIgnoreCase in javascript",
   "main": "index.js",
   "scripts": {
